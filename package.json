@@ -9,7 +9,7 @@
     "start": "node src/index.js",
     "dev": "nodemon --exec npm run babel-node src/index.js"
   },
-  "author": "Jerson navarro",
+  "author": "Jerson navarro,Leonel salazar",
   "license": "ISC",
   "dependencies": {
     "aws-sdk": "^2.1642.0",
